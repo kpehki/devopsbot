@@ -110,4 +110,5 @@ git reset --hard <tag/branch/commit hash>
 ""","""
 
 git revert <commit hash>
+"""
 )
