@@ -1,9 +1,6 @@
 # devopsbot
 https://t.me/devopsqiabot
 
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
+  <img src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false">
 </a>
-
-Made with [contributors-img](https://contrib.rocks).
