@@ -624,7 +624,7 @@ cat /etc/passwd
 </details>
 <details>
 <summary>
-53. Отличия /etc/passwd и /etc/passwd?
+53. Отличия /etc/passwd и /etc/shadow?
 </summary>
 Файл /etc/passwd доступен для чтения по словам, а это означает, что любой пользователь может его прочитать, но файл /etc/shadow доступен для чтения только учетной записи root.
 </details>
