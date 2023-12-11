@@ -75,3 +75,9 @@ Ansible применяет порядок приоритета переменн�
 
 Ссылка на документацию: https://docs.ansible.com/ansible/latest/user_guide/playbooks_strategies.html#setting-the-batch-size-with-serial
 </details>
+<details>
+<summary>
+9. В чем отличие Ansible от Puppet/Chef?
+</summary>
+Ansible, Puppet и Chef - это инструменты автоматизации конфигурации и управления конфигурацией. Основное отличие Ansible от Puppet и Chef заключается в том, что Ansible работает по протоколу SSH, а Puppet и Chef - по протоколу HTTPS.
+</details>
